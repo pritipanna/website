@@ -5,7 +5,7 @@ categories = ["Build"]
 tags = ["Web development tools, backend, frontend, web app, deployment, hosting, ideation, wireframing, database architecture"]
 description = "Web development is hard. Thankfully, there are tools at our disposal to help make life easier. Within this post, you will find 40 web development tools to help improve your workflow."
 author = "Joe Johnston"
-images = ["/web-development-tools/budibase.png"]
+images = ["web-development-tools/budibase.png"]
 draft ="false"
 +++
 
@@ -157,7 +157,7 @@ A low code platform removes a lot of the heavy leg work associated with developi
 
 ##### Budibase
 
-[Budibase](https://www.budibase.com/) is a rapid development tool combining the functionality of many of the tools listed below, and delivering them to the user in one simple platform. Budibases helps developers, product managers, and technical entrepreneurs build, launch, and grow web applications. It covers backend and frontend development and is a lot easier and faster than traditional programming. Very soon, users will be able to build, host, and analyse there web app within Budibase. If you are intersted, signup using the form in the footer.
+[Budibase](https://www.budibase.com/) is a rapid development tool combining the functionality of many of the tools listed below, and delivering them to the user in one simple platform. Budibases helps developers, product managers, and technical entrepreneurs build, launch, and grow web applications. It covers backend and frontend development and is a lot easier and faster than traditional programming. Very soon, users will be able to build, host, and analyse there web app within Budibase. If you are interested, signup using the form in the footer.
 
 {{< figure src="/web-development-tools/budibase.png" alt="Budibase UI" >}}
 
